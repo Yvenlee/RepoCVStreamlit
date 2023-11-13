@@ -44,7 +44,22 @@ col2.write(
 - Linux
 
 """)
-st.divider()
+
+st.header('Experience Professionelle', divider='orange')
+st.write('Stage de 3eme en entreprise: :sparkle: BNP Paribas (Opera)')
+st.write(
+    """
+- Methode efficace pour prendre des notes à l'aide de schemas
+- Découverte de leur pôle communication et RH
+""")
+st.write('Preparation Militaire de Decouverte :helicopter::flag-fr:1RHC (Phalsbourg)')
+st.write(
+    """
+- Discipline, Ponctualité, "Etre à l'heure c'est déjà être en retard"
+- Dépassement de soi
+- Découverte des nombreux métiers dont la mécanique et la météorologie
+- Tir à munitions inertes au FAMAS
+""")
 #inclusion d'un code html pour la bordure de la photo
 st.markdown(
     f'<div style="display: flex; border: 2px solid #ccc; border-radius: 10px; padding: 10px;">'
@@ -65,19 +80,3 @@ st.markdown(
 )
 
 st.divider()
-
-st.header('Experience Professionelle', divider='orange')
-st.write('Stage de 3eme en entreprise: :sparkle: BNP Paribas (Opera)')
-st.write(
-    """
-- Methode efficace pour prendre des notes à l'aide de schemas
-- Découverte de leur pôle communication et RH
-""")
-st.write('Preparation Militaire de Decouverte :helicopter::flag-fr:1RHC (Phalsbourg)')
-st.write(
-    """
-- Discipline, Ponctualité, "Etre à l'heure c'est déjà être en retard"
-- Dépassement de soi
-- Découverte des nombreux métiers dont la mécanique et la météorologie
-- Tir à munitions inertes au FAMAS
-""")
