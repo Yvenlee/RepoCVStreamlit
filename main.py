@@ -67,7 +67,7 @@ st.markdown(
 st.divider()
 
 st.header('Experience Professionelle', divider='orange')
-st.write('Stage de 3eme en entreprise: :sparkle:BNP Paribas (Opera)')
+st.write('Stage de 3eme en entreprise: :sparkle: BNP Paribas (Opera)')
 st.write(
     """
 - Methode efficace pour prendre des notes à l'aide de schemas
