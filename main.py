@@ -18,6 +18,7 @@ image_base64 = base64.b64encode(image_bytes.getvalue()).decode()
 
 NAME = "VONIN--KABEL YVENLEE"
 st.title(NAME)
+st.write('yvenlycee@gmail.com | 07.70.20.42.25')
 
 st.header('Bachelor 2 à :orange[Paris Ynov Campus]',divider='rainbow')
 #création de variables pour les colonnes comme pour les div html
