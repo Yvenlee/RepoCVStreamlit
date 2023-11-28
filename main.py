@@ -16,7 +16,7 @@ image_base64 = base64.b64encode(image_bytes.getvalue()).decode()
 
 
 
-NAME = "VONIN--KABEL YVENLEE | 04/09/2004"
+NAME = "VONIN--KABEL YVENLEE"
 st.title(NAME)
 st.write('yvenlycee@gmail.com | 07.70.20.42.25')
 
