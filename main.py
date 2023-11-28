@@ -61,7 +61,7 @@ st.write(
 - Découverte des nombreux métiers dont la mécanique et la météorologie
 - Tir à munitions inertes au FAMAS
 """)
-st.write('------------------------Né le 4 Septembre 2004 (19 ans)-----------------------------')
+st.write('------------------------------Né le 4 Septembre 2004 (19 ans)------------------------------')
 #inclusion d'un code html pour la bordure de la photo
 st.markdown(
     f'<div style="display: flex; border: 2px solid #ccc; border-radius: 10px; padding: 10px;">'
